@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="supported">Unterstützung</string>
+    <string name="ble_not_supported">Nicht unterstützt</string>
+
+</resources>

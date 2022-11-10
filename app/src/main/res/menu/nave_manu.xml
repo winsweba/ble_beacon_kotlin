@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_phone_setup"
+        />
+
+    <item android:id="@+id/nav_phone"
+        android:title="About Phone"
+        android:icon="@drawable/ic_phone_setup"
+        />
+
+    </group>
+
+<!--    <item android:id="@+id/nev_sync"-->
+<!--        android:title="Home"-->
+<!--        android:icon="@drawable/ic_home"-->
+<!--        />-->
+<!--    <item android:id="@+id/nev_trash"-->
+<!--        android:title="Home"-->
+<!--        android:icon="@drawable/ic_home"-->
+<!--        />-->
+
+<!--    <item android:title="profile">-->
+<!--        <menu>-->
+<!--            <item android:id="@+id/nev_login"-->
+<!--                android:title="Home"-->
+<!--                android:icon="@drawable/ic_home"-->
+<!--                />-->
+<!--        </menu>-->
+<!--    </item>-->
+
+
+<!--    <group android:checkableBehavior="single">-->
+
+
+
+<!--    <item android:title="profile">-->
+<!--        <menu>-->
+<!--            <item android:id="@+id/nev_share"-->
+<!--                android:title="Home"-->
+<!--                android:icon="@drawable/ic_home"-->
+<!--                />-->
+<!--        </menu>-->
+<!--    </item>-->
+
+
+<!--    </group>-->
+
+</menu>
